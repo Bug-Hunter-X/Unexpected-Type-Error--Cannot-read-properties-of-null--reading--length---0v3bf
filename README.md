@@ -1,0 +1,1 @@
+This repository demonstrates an uncommon JavaScript error: 'Cannot read properties of null (reading 'length')'. The error occurs when the code tries to access the 'length' property of a variable that is unexpectedly null or undefined. The solution shows how to properly handle null or undefined values before accessing their properties.
